@@ -11,7 +11,7 @@ Open the [Admin UI](http://127.0.0.1:8090/_/).
 
 create the 'notes' collection.
 
-add the 'title' and 'cotnent'.
+add the 'title' and 'content'.
 
 update security rules to allow read/write access.
 
